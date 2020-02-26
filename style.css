@@ -1,0 +1,55 @@
+.head {
+    text-align: center;
+    font-size: 30px;
+    background: linear-gradient(rgb(22, 22, 218),blue);
+    color: white;
+}
+
+.box {
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+#cont {
+    width: 230px;
+    margin-top: 100px;
+    margin-left: 100px;
+    /* border: 1px solid black; */
+}
+
+#line1, #line2, #line3, #flexBox, #flexBox2 {
+    display: flex;
+}
+
+#sel {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#player {
+    width: 150px;
+    height: 50px;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(22, 22, 218);
+}
+
+#scoreBoard {
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 50px;
+    background-color: rgb(182, 180, 180);
+}
+
+
+.data1, .data2, .dataG {
+    margin: 20px;
+    color: blue;
+    font-size: 20px;
+    font-weight: bolder;
+}
